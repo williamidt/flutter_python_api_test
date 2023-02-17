@@ -15,6 +15,10 @@ Step to run
 
 3. compile and run app 
 
+
+![image](https://user-images.githubusercontent.com/65929403/219760454-48261850-92e8-49b2-9b7a-7840b3decadf.png)
+
+
  
 
 ## Getting Started
